@@ -19,3 +19,7 @@ button {
     justify-items: center;
     color: black;
 }
+button text {
+    font-size: medium;
+}
+
