@@ -2,7 +2,7 @@
 css framework assignment
 
 # add button with link to file 
-```  <button onclick="window.location.href = 'https://lilwayne.com/';" value="All Things Weezy!"></button> ```
+```  <button onclick="window.location.href = 'https://lilwayne.com/';">All Things Weezy!</button> ```
 ##### button onclick="window.location.href = 'websitehere.com';" tells button to take you to 'websitehere.com' when clicked
 
 # style button in css
